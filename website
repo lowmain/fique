@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Page Title</title>
+</head>
+
+<body>
+<h2>Welcome To GFG</h2>
+<p>
+Default code has been
+loaded into the Editor.
+</p>
+</body>
+    <h1>Welcome to my OS</h1>
+    <h2>nihao</h2>
+    <p>Hello world!</p>
+    <img style="width=100%" src="https://th.bing.com/th/id/R.4387f9951e3a45dc00a9ef615c9edd94?rik=8QyO7hBiV%2fYTfQ&pid=ImgRaw&r=0"/>
+        <a href="https://www.apple.com/">label</a>
+
+</html>
